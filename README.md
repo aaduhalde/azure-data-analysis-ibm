@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![Azure](https://img.shields.io/badge/Microsoft%20Azure-Integration-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
-[![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-blue?logo=looker&logoColor=white)](https://lookerstudio.google.com/)
 
 > **Business Analytics Demo Project**  
 > Predicting **Revenue and ROI** using multiple regression and model evaluation techniques.  
