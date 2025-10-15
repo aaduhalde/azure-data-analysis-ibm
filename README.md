@@ -19,7 +19,7 @@ The pipeline includes:
 - Data preparation and feature engineering  
 - Regression modeling (Linear and Ridge)  
 - Model evaluation (MSE, R², Grid Search)  
-- Integration with Azure and Power BI  
+- Integration with Azure and Looker 
 
 ---
 
