@@ -39,7 +39,7 @@ The main objectives are:
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 ```mermaid
 graph LR
