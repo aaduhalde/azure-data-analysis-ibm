@@ -39,9 +39,9 @@ The project showcases:
 
 ```mermaid
 graph TD
-A[Raw Data CSV / Azure Blob] --> B[Data Cleaning & Feature Engineering (Python)]
-B --> C[Regression Models (Linear & Ridge)]
-C --> D[Hyperparameter Tuning (Grid Search)]
-D --> E[Model Evaluation (MSE, R²)]
-E --> F[Results Export CSV + Looker Dashboard]
-C --> G[Azure Integration: Data Upload / Storage]
+    A[Raw Data CSV or Azure Blob] --> B[Data Cleaning and Feature Engineering (Python)]
+    B --> C[Regression Models: Linear and Ridge]
+    C --> D[Hyperparameter Tuning via Grid Search]
+    D --> E[Model Evaluation using MSE and R2]
+    E --> F[Results Export to CSV and Looker Dashboard]
+    C --> G[Azure Integration: Data Upload or Storage]
